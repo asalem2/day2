@@ -1,3 +1,5 @@
+web link: https://spring.io/guides/tutorials/react-and-spring-data-rest/
+
 Spring Data Rest addresses: 
 	1) The developer uses a Spring Data project that supports the repository model
 	2) The system uses well accepted industry standard protocols, 
