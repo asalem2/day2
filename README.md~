@@ -1,0 +1,10 @@
+Spring Data Rest addresses: 
+	1) The developer uses a Spring Data project that supports the repository model
+	2) The system uses well accepted industry standard protocols, 
+	   like HTTP verbs, standardized media types, and IANA-approved link names.
+
+	
+- we will use Spring Data Rest-based application as the domain object. 
+Which will let us keep track of the employees for a company. 
+- JPA annotation is used to denote employee ID. (@Id and @GeneratedValue)
+- 
